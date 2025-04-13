@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WelcomeExtended": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
