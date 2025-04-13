@@ -1,1 +1,1 @@
-# PS_Ivan_Nachev_121222147
+#"Software Environments Project at the Technical University of Sofia"
